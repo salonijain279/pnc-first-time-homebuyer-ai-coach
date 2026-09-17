@@ -14,6 +14,15 @@ through it. The team designed customer personas, mapped the trust factors that m
 financial coach credible, and proposed a product concept for PNC built specifically around
 explainability rather than a black-box recommendation engine.
 
+## Approach
+
+```mermaid
+flowchart LR
+    A[Customer research on homebuyer anxiety] --> B[Build customer personas]
+    B --> C[Map AI-trust factors]
+    C --> D[Design explainable coaching concept]
+```
+
 ## Deliverables
 
 - `Final_Presentation.pdf` — the slide deck presented to judges
