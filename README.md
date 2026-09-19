@@ -30,6 +30,6 @@ flowchart LR
 
 ## Data / Confidentiality Note
 
-This is a case-competition product-strategy exercise, not a PNC-commissioned engagement — no PNC
+This is a case-competition product-strategy submission, not a PNC-commissioned engagement — no PNC
 proprietary systems, data, or customer information are involved. There is no code artifact for
 this case; the deliverable is the strategy deck and pitch presentation.
